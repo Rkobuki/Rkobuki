@@ -3,9 +3,6 @@
 ![Rust](https://img.shields.io/badge/-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-008080?style=flat-square&logo=latex&logoColor=white)
 ![Docker](https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
